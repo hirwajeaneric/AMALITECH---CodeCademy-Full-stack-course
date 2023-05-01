@@ -1,20 +1,26 @@
 class HospitalEmployee {
     constructor(name) {
-      this._name = name;
-      this._remainingVacationDays = 20;
+        this._name = name;
+        this._remainingVacationDays = 20;
     }
     
     get name() {
-      return this._name;
+        return this._name;
     }
     
     get remainingVacationDays() {
-      return this._remainingVacationDays;
+        return this._remainingVacationDays;
     }
     
     takeVacationDays(daysOff) {
-      this._remainingVacationDays -= daysOff;
+        this._remainingVacationDays -= daysOff;
     }
+
+    // A static function 
+    static generatePassword(){
+        return Math.floor(Math.random()*10000)
+    }
+    
   }
   
   class Nurse extends HospitalEmployee {
