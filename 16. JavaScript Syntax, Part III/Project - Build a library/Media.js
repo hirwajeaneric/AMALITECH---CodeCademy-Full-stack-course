@@ -29,6 +29,10 @@ class Media {
         return sumOfRatings/this._ratings.length
     }
 
+    addRating(rating){
+        this._ratings.push(rating);
+    }
+
     set isCheckedOut(status){
         this._isCheckedOut = status; 
     }
