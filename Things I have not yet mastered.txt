@@ -1,30 +1,66 @@
 Good	6. Deploying website (Web hosting)
-
 Good	14. Making A Website Accessible
-16. JavaScript Syntax, Part III
+Good 	41. Fundamentals of Operating Systems
+
+--------------------------------------------------------------------------------------------------------------
+
+In progress 16. JavaScript Syntax, Part III
+
+--------------------------------------------------------------------------------------------------------------
+
 17. JavaScript Testing
+
+--------------------------------------------------------------------------------------------------------------
+
 21. React, Part II
 22. Redux
 
+--------------------------------------------------------------------------------------------------------------
+
 24. Portfolio Project: Reddit Client
+
+--------------------------------------------------------------------------------------------------------------
+
 27. User Authentication & Authorization
-29. Database Basics 								=> Have not yet used PostgreSQL yet
+
+--------------------------------------------------------------------------------------------------------------
+
+29. Database Basics
 31. Designing Relational Databases
 32. Advanced PostgreSQL
 33. Adding a PostgreSQL Database
+
+--------------------------------------------------------------------------------------------------------------
+
 35. Portfolio Project: E-Commerce App (REST API)
+
+--------------------------------------------------------------------------------------------------------------
+
 37. Deploying Web Applications
+
+--------------------------------------------------------------------------------------------------------------
+
 38. Web Security Fundamentals
 39. Data Security
 40. Common Attacks on Web Applications
-41. Fundamentals of Operating Systems
+
+--------------------------------------------------------------------------------------------------------------
+
 42. DevOps Fundamentals
+
+--------------------------------------------------------------------------------------------------------------
+
 43. Portfolio Project: E-Commerce App (Client)
+
+--------------------------------------------------------------------------------------------------------------
+
 44. What To Expect in a Technical Interview
 45. Linear Data Structures
 46. Complex Data Structures
 47. Algorithms
 48. Search & Graph Search Algorithms
 49. Interview Skills
+
+--------------------------------------------------------------------------------------------------------------
+
 50. Portfolio Project: Open-Ended PERN App
-51. Next Steps in Your Full-Stack Engineer Journey
